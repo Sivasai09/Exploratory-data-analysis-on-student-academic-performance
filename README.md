@@ -21,3 +21,4 @@ Student Performance Dataset
 ## Outputs
 - Charts
 - Insights
+- Reports
